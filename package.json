@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "The carousel component for mobile and desktop",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "Katsiaryna Vasilyeva",
+  "license": "ISC",
+  "dependencies": {
+    "style-loader": "^2.0.0",
+    "webpack": "^5.4.0"
+  },
+  "devDependencies": {
+    "css-loader": "^5.0.1",
+    "webpack-cli": "^4.2.0"
+  }
+}
